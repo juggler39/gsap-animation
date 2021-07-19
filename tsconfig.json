@@ -1,0 +1,10 @@
+{
+    "files": ["app/src/**/*.ts"],
+    "compilerOptions": {
+        "rootDir": "app/src",
+        "noImplicitAny": true,
+        "target": "es6",
+        "module": "es2015",
+        "moduleResolution": "node"
+    }
+}
